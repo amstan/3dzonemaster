@@ -7,7 +7,9 @@ m = PyMouse()
 mousemapping={
 	1: ("trigger","1"),
 	2: ("3",),
-	3: ("2",)
+	3: ("2",),
+	4: ("up",),
+	5: ("down",)
 }
 
 def mouseEmulator(pos,buttons):
